@@ -8,7 +8,7 @@ This repository contains the **official code examples, mini-projects, and tiny d
 
 The goal is simple:
 ✅ help beginners run working code  
-✅ learn AI/ML/DL step-by-step  
+✅ learn AI/ML/DL/Generative AI step-by-step  
 ✅ build confidence using small, practical examples
 
 ---
@@ -27,6 +27,7 @@ The goal is simple:
 - Statistics & math
 - Machine Learning
 - Deep Learning
+- Generative AI
 
 
 ## How to use this repo with the book
