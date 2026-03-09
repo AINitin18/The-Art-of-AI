@@ -77,4 +77,5 @@ This is why The Art of AI is more than a technical title. AI is not only science
 So as you close this book, do not think of it as the end of your learning. Think of it as the beginning of your real journey. Keep learning. Keep experimenting. Keep building. Keep questioning. And most importantly, use AI to create solutions that are meaningful, responsible, and valuable.
 Your journey into the art of AI has only just begun.
 
+## For any help please drop an email -  theartofai18@outlook.com
 
