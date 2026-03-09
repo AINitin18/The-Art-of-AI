@@ -7,7 +7,7 @@ Welcome! 👋
 This repository contains the **official code examples, mini-projects, and tiny datasets** used in my book **“The Art of AI”**.
 
 The goal is simple:
-✅ help beginners run working code  
+✅ help beginners to understand the AI very deeply and quickly & run working code  
 ✅ learn AI/ML/DL/Generative AI step-by-step  
 ✅ build confidence using small, practical examples
 
