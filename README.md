@@ -6,6 +6,8 @@ AI is often taught as a collection of algorithms and tools. This book takes a di
 Welcome! 👋  
 This repository contains the **official code examples, mini-projects, and tiny datasets** used in my book **“The Art of AI”**.
 
+<img width="728" height="971" alt="The Art of AI" src="https://github.com/user-attachments/assets/9ac89bfa-d949-4720-b4a1-862a50a08355" />
+
 The goal is simple:
 ✅ help beginners to understand the AI very deeply and quickly & run working code  
 ✅ learn AI/ML/DL/Generative AI step-by-step  
