@@ -63,7 +63,7 @@ This book is not designed only for researchers or advanced mathematicians. It is
 
 
 ## About the Author
-Nitin D.H. Patil is a seasoned Technology Architect, AI Product Developer, and Solution Designer with 15 years of professional experience, currently working with IBM. Over the course of his career, he has built strong expertise across multiple domains, including Real Estate, Telecommunications, and Banking, delivering technology-led solutions that align business needs with modern enterprise architecture.
+Nitin D.H. Patil is a seasoned Technology Architect, AI Product Developer, and Solution Designer with 15 years of professional experience, currently working with IBM. Over the course of his career, he has built strong expertise across multiple domains, including Real Estate, Maintainance, Telecommunications, and Banking, delivering technology-led solutions that align business needs with modern enterprise architecture.
 He specializes in AI product development, solution design, enterprise architecture, and innovation-led technology transformation, with a strong focus on building scalable, practical, and business-driven AI solutions. His professional work combines domain knowledge, architectural thinking, and hands-on AI application design to solve complex business problems and accelerate digital transformation.
 Nitin is passionate about simplifying complex AI concepts and helping learners, engineers, and organizations understand how to apply Artificial Intelligence in a practical, responsible, and value-driven way.
 
@@ -78,5 +78,5 @@ This is why The Art of AI is more than a technical title. AI is not only science
 So as you close this book, do not think of it as the end of your learning. Think of it as the beginning of your real journey. Keep learning. Keep experimenting. Keep building. Keep questioning. And most importantly, use AI to create solutions that are meaningful, responsible, and valuable.
 Your journey into the art of AI has only just begun.
 
-## Should you require any further assistance, please do not hesitate to reach out via email at :- theartofai18@outlook.com
+✅ Should you require any further assistance, please do not hesitate to reach out via email at :- theartofai18@outlook.com
 
