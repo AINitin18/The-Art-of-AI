@@ -4,7 +4,7 @@
 > Unlock the power of **AI and Machine Learning** through practical examples, clear explanations, and hands-on coding.
 
 <p align="center">
-  <img src="assets/the-art-of-ai-cover-front.png" alt="The Art of AI Book Cover" width="320" />
+ <img width="1236" height="800" alt="20260307_2332_The Art of AI_simple_compose_01kk4qd19te2cty2n719vckh28" src="https://github.com/user-attachments/assets/33eabd1a-a362-461d-9c86-f77f26241015" />
 </p>
 
 <p align="center">
